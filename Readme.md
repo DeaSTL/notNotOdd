@@ -1,3 +1,5 @@
+<img src="https://cdn.discordapp.com/attachments/837800765602005051/1187131696898900080/lighthouse-score.png?ex=6595c58c&is=6583508c&hm=7777b5f154ff37856f97a5def7d96db53ca6180896f6512a25f37b650bf91eb4&"/>
+
 <a href="https://imgflip.com/i/89ts7o"><img src="https://i.imgflip.com/89ts7o.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
 # not-not-odd  🚀
 ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
@@ -10,9 +12,9 @@
 ![downloads](https://img.shields.io/badge/downloads-13k%2Fmonth-brightgreen)
 ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
-![GitHub issues by-label](https://img.shields.io/github/issues/badges/shields/good%20first%20issue)
-![discord](https://img.shields.io/discord/123?logo=discord&amp;label=discord)
-![npm](https://img.shields.io/npm/v/badges.svg)
+[![GitHub issues by-label](https://img.shields.io/github/issues/badges/shields/good%20first%20issue)](https://github.com/Lvcky-gg/notNotOdd/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+[![discord](https://img.shields.io/discord/123?logo=discord&amp;label=discord)](https://discord.gg/9EBfMjYm)
+[![npm](https://img.shields.io/npm/v/badges.svg)](https://www.npmjs.com/package/not-not-odd)
 ![crypto](https://img.shields.io/badge/crypto-donate-yellow.svg)
 ![paypal](https://img.shields.io/badge/paypal-donate-yellow.svg)
 ![oc](https://img.shields.io/badge/open%20collective-donate-yellow.svg)
