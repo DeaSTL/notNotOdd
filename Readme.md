@@ -58,3 +58,9 @@ notNotOddNotNotEvenChecker.notNotEven(42)  // => true
 * https://discord.gg/9EBfMjYm
 
 
+## Yams
+
+![yams](yams-1.jpg)
+![yams](yams-2.jpg)
+![yams](yams-3.jpg)
+![yams](yams-4.jpg)
