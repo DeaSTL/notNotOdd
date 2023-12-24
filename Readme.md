@@ -62,5 +62,5 @@ notNotOddNotNotEvenChecker.notNotEven(42)  // => true
 
 ![yams](yams-1.jpg)
 ![yams](yams-2.jpg)
-![yams](yams-3.jpg)
+![yams](yams-3.jepg)
 ![yams](yams-4.jpg)
